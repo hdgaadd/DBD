@@ -37,7 +37,7 @@
 - product
 - sku_sock`商品sku库存表`
 
- ![order_task](.\images\order_task.jpg)
+![order_task](.\images\order_task.jpg)
 
 
 
