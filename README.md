@@ -2,7 +2,7 @@
 
 ## 课程模块
 
-###tables design
+### tables design
 
 - lesson
 
@@ -36,8 +36,6 @@
 - order_setting`订单全局设置表`
 - product
 - sku_sock`商品sku库存表`
-
-<br/>
 
 <br/>
 
@@ -96,8 +94,6 @@
 - resource
 
 - resouce_categoy`资源种类表[ˈkætəɡəri]`
-
-<br/>
 
 <br/>
 
