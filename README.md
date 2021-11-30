@@ -37,13 +37,9 @@
 - product
 - sku_sock`商品sku库存表`
 
-<br/>
-
 ### picture
 
  ![order_task](./images/order_task.jpg)
-
-
 
 
 
@@ -95,11 +91,9 @@
 
 - resouce_categoy`资源种类表[ˈkætəɡəri]`
 
-<br/>
-
 ### picture
 
  ![order_task](./images/login_authorization.png)
 
-
+<br/>
 
