@@ -1,6 +1,3 @@
-
- ![image](./images/order_task.jpg)
-
 # 在线教育系统
 
 ## 课程模块
@@ -42,7 +39,7 @@
 
  
  
- ![](.\images\order_task.jpg)
+ ![order_task](./images/order_task.jpg)
 
 
 
@@ -98,7 +95,7 @@
 
 
 
- ![](.\images\login_authorization.png)
+ ![login_authorization](./images/login_authorization.png)
 
 
 
