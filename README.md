@@ -1,3 +1,6 @@
+
+ ![](.\images\order_task.jpg)
+
 # 在线教育系统
 
 ## 课程模块
@@ -37,6 +40,8 @@
 - product
 - sku_sock`商品sku库存表`
 
+ 
+ 
  ![](.\images\order_task.jpg)
 
 
