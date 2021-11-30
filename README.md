@@ -91,11 +91,9 @@
 
 - resouce_categoy`资源种类表[ˈkætəɡəri]`
 
- <img src=".\images\login_authorization.png" alt="login_authorization" style="zoom:150%;" />
 
 
-
-
+ ![login_authorization](.\images\login_authorization.png)
 
 
 
