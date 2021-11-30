@@ -37,7 +37,7 @@
 - product
 - sku_sock`商品sku库存表`
 
- ![order_task](D:\Users\26356\Desktop\MyNote\images\order_task.jpg)
+ ![order_task](.\images\order_task.jpg)
 
 
 
@@ -91,7 +91,7 @@
 
 - resouce_categoy`资源种类表[ˈkætəɡəri]`
 
- <img src="D:\Users\26356\Desktop\MyNote\images\login_authorization.png" alt="login_authorization" style="zoom:150%;" />
+ <img src=".\images\login_authorization.png" alt="login_authorization" style="zoom:150%;" />
 
 
 
